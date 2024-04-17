@@ -4,4 +4,4 @@ This project combines exploratory data analysis using the Pandas library with pr
 
 It represents a workplace scenario featuring a fictional data consulting firm tasked with analyzing the relationship between fare amounts and payment type.
 
-The project was carried out using Jupyter Notebooks and is presented in PDF format.
+The project was conducted using Jupyter Notebooks and is presented in PDF format.
