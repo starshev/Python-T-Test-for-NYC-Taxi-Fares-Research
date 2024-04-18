@@ -1,4 +1,4 @@
-# Hypothesis Testing with Python · Taxi Fares Data
+# Hypothesis Testing with Python · Taxi Fares
 
 This project combines exploratory data analysis using the Pandas library with preparation and execution of a two-sample hypothesis t-test.
 
