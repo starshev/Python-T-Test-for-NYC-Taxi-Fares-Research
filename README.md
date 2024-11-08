@@ -1,4 +1,4 @@
-# T-Test with Python · NYC Taxi Fares
+# T-Test with Python · NYC Taxi Fares Research
 
 ### Project Overview
 Analyzed the relationship between taxi fare amounts and payment types for the New York Taxi and Limousine Commission. The project included data wrangling, exploratory data analysis, and a 2-sample T-test to uncover patterns in fare pricing based on payment methods.
