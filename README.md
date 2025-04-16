@@ -1,13 +1,15 @@
-# T-Test with Python · NYC Taxi Fares Research
+# T-Test Analysis with Python for Taxi Fare Research
 
-### Project Overview
-Analyzed the relationship between taxi fare amounts and payment types for the New York Taxi and Limousine Commission. The project included data wrangling, exploratory data analysis, and a 2-sample T-test to uncover patterns in fare pricing based on payment methods.
+### Task  
+Analyze the relationship between taxi fare amounts and payment types using real-world transportation data. The project includes data wrangling, exploratory data analysis, and performing a 2-sample T-test to uncover pricing patterns based on payment methods.
 
-### Key Skills
-Data wrangling, EDA with Pandas, preparing and conducting a 2-sample T-test using SciPy, evaluating test results, and formulating data-driven recommendations.
+### Skills  
+Data wrangling, exploratory data analysis (EDA) with Pandas, preparing and conducting a 2-sample T-test using SciPy, evaluating results, and formulating data-driven recommendations.
 
-### Описание проекта
-Проведён анализ связи между суммами оплаты за такси и типами оплаты для Нью-Йоркской комиссии по такси и лимузинам. Проект включал обработку данных, исследовательский анализ и двухвыборочный T-тест для выявления закономерностей в структуре тарифов в зависимости от методов оплаты.
+# Проведение T-теста с использованием Python в исследовании тарифов на такси
 
-### Ключевые навыки
-Обработка данных, исследовательский анализ с использованием Pandas, подготовка и проведение двухвыборочного T-теста с использованием SciPy, оценка результатов теста и формулирование рекомендаций на основе данных.
+### Задача  
+Проанализировать связь между суммами оплаты за такси и типами оплаты на основе данных о поездках. Проект включает обработку данных, исследовательский анализ и проведение двухвыборочного T-теста для выявления закономерностей в тарифах в зависимости от метода оплаты.
+
+### Навыки  
+Обработка данных, исследовательский анализ данных (EDA) с использованием Pandas, подготовка и выполнение двухвыборочного T-теста с использованием SciPy, оценка результатов, формулирование рекомендаций на основе данных.
